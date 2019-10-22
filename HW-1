@@ -1,3 +1,4 @@
+1st attempt - (second attempt at the bottom)
 /* ===
 ml5 Example
 Real time Object Detection using YOLO and p5.js
@@ -61,3 +62,6 @@ What kinds of objects can YOLO identify?
   Animals, including cats, dogs, birds, horses, cows, and sheep, to name a few
   Kitchen and dining objects, such as wine glasses, cups, forks, knives, spoons, etc.
   …and more
+
+2nd attempt - 
+https://editor.p5js.org/hridaewcca/sketches/v98ID42ds
